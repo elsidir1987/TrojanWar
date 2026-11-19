@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8dae1cb2150aa6b4c89c28b76660b0d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249202
+  packageName: Ancient Greek Roman World Pack CorCore
+  packageVersion: 1.0
+  assetPath: Assets/CorCore_AncientWorld/CorCore_Tiles/Random_Tiles/MarbleFloor_TileRules_Random.asset
+  uploadId: 569026

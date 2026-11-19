@@ -1,0 +1,1709 @@
+fileFormatVersion: 2
+guid: b732d9290db77af43b2501e66d16460f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grass_01
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 919
+        width: 151
+        height: 86
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f56ac4b509fcc4085daae313adf6c4
+      internalID: 281047901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_02
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 907
+        width: 151
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52f11f7ffc7a42408f213e98a18b8ec
+      internalID: -70675554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_03
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 899
+        width: 151
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfe74027e793694fa8e1a60e79be418
+      internalID: 923505017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Floor_09
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 837
+        width: 129
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bfeeab3b2eb814e83baa13b24478a6
+      internalID: 553602353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_04
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 826
+        width: 151
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8f5216b2e8dc24a97600901c2921d7
+      internalID: -733543100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_05
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 821
+        width: 146
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e419050d07f864d9f2cc4315271222
+      internalID: -1566296665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_06
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 814
+        width: 151
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8abf6c2611d214980ed4dd786bc7bd
+      internalID: -31928154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_07
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 720
+        width: 151
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5db1e209b246848b607b0936d63d5e
+      internalID: 428119104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass_08
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 720
+        width: 151
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8338727a7dab14a974f717edbc6e76
+      internalID: 1226891517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_01
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 720
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd5550222b73046bd3dda4f3a3f992
+      internalID: 553214097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_02
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 718
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2095cfe3369e1d41adb1fa95930c205
+      internalID: -1741140120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marble_Floor_05
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 626
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652aea352b6ad1a408ee411b01258ab7
+      internalID: -1391608228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marble_Floor_01
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 626
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f597e9e56a330db4d962d4e26e855768
+      internalID: 855456666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marble_Floor_04
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 626
+        width: 129
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5976115469f7bc5409c24f3bbc746315
+      internalID: -1260785916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marble_Floor_03
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 626
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fafe17a1b8d4d458d228570c4338c5
+      internalID: -159798254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marble_Floor_02
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 626
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c821881cd38d4e64b84e6a9208016d53
+      internalID: 1349283822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_06
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 626
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77e50af029cba7459c71975c6ad9270
+      internalID: -1582095693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fountain
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 513
+        width: 132
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5184941, y: 0.3131186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ca215bce0b8944977f8b8b19d73fe
+      internalID: -1892008549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Floor_03
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 536
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1db58fbd641ad244a3e1840f6b074e3
+      internalID: -60404796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Floor_02
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 536
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16de34b89ee388943841ec5dbf2ba024
+      internalID: 329084080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Floor_01
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 536
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c58f569487fe4488df206a42a2259d
+      internalID: -1095522624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Floor_04
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 540
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ca0348c26607429df2da9ad5c0e08
+      internalID: 591038507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Floor_05
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 540
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2db37df5996b244b8f7fea11f06db5
+      internalID: 309491383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_03
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 542
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab183f7125c8804681a73def9247c88
+      internalID: 1285454686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Floor_06
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 460
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef7cad28612a564db65e0bd4dda448a
+      internalID: -1094409753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Floor_07
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 460
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2685e60d8e520d245a41292f133ddaa2
+      internalID: 2058607794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Floor_08
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 460
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f647ee55517f1c4d89ca253c27decd3
+      internalID: 1972148886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Floor_10
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 460
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dc84c67edde784b84a39fb6c0c05c3
+      internalID: -30389207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Floor_09
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 456
+        width: 130
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3afaec65a7474f4fbadf18d4e26e934
+      internalID: 198216006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_04
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 460
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec11c41f4077a4daceb7c3f8dad87d
+      internalID: -1168502951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 408
+        width: 129
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b47b4d5188983443b30628beddbfd26
+      internalID: -2138674643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Stone_Floor_01
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 366
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581d2ef4be56ef3459d2e483f3a7868e
+      internalID: -38248588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Stone_Floor_02
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 367
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71089f257de71548b3b4f2ed59723c2
+      internalID: -1466337382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Floor_01
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 373
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107a30c0daaefa14e9e2095c0fe3d310
+      internalID: 382464982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Floor_02
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 373
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4568848d9fef991468b7b990399ae544
+      internalID: -1862672640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Floor_03
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 373
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40bf331fb166744b98762f1c2e950ad
+      internalID: 1659029037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Floor_04
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 373
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04428b4f8ae27d14289f5966446ea4f1
+      internalID: -362666618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Stone_Floor_03
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 290
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891bc242e1503d43a54865d1a1c4b45
+      internalID: -1456516171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Stone_Floor_04
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 290
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402e517d4f48fbc459f206c6fe604825
+      internalID: -1682420930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Floor_05
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 290
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adff039a0ffac44f9c09160b99e9156
+      internalID: -1082102252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Floor_06
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 290
+        width: 127
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097a93b29a0685244a30790b3a2be207
+      internalID: 1407410606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Floor_07
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 290
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc9d660c38cd443aeabd193517f649
+      internalID: 1124836147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stone_Floor_08
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 290
+        width: 128
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250cbf8cd15b3904eaf1c4fbdf743233
+      internalID: -1572451108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_14
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 285
+        width: 129
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b867c0dc542924b9ba09cebb4ce133
+      internalID: 530180995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 191
+        width: 129
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df2bbb898eebd345b9dd680bcbae772
+      internalID: 1088182819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 190
+        width: 128
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2058a6837c0b88d419ae202294fdd544
+      internalID: 1153732929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_0
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 191
+        width: 129
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c08c4ff25cc52a41a5910448a3641ef
+      internalID: -409109631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_34
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 194
+        width: 128
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65df3843a8766d49b27b4e5e8493974
+      internalID: -1649640214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_23
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 199
+        width: 128
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4010f526661ab545bb2c4c0112259cb
+      internalID: 128695088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_4
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 188
+        width: 129
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb5dd1e1c21d6744b4d9070c21e9456
+      internalID: 1316502744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 81
+        width: 129
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a40eff66dd90f74482827c29a09a9ac
+      internalID: -195937359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 83
+        width: 129
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88e4093c646a724aab41ead63db8bcb
+      internalID: -907823814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_1234
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 84
+        width: 128
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4652176fac97cf94a84c5ba8886cb935
+      internalID: 675197908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_134
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 85
+        width: 128
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e818e3084869a7c46846609d201c346e
+      internalID: -751460066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_124
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 85
+        width: 128
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab055832fa402944a88754109d7a0ac
+      internalID: 1195405185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water_1
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 85
+        width: 129
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfbb0f3da3e5144a86b61faff32bd91
+      internalID: -1194374352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_05
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 721
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ebc3620cfa10a4085054c989413003
+      internalID: 1376467812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_07
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64757ef99f0c0bd409810db926ccec4f
+      internalID: 1717019837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_08
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555333ddee504bf47a53837facf69470
+      internalID: -1140137522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_09
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 6
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e27e52c54db81f419b00becaccf9ea8
+      internalID: 721038636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_10
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 6
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3583c9a67f2b7840a50275cfe344284
+      internalID: -1106913659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 5
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391814981a8537741b5732483f2dc974
+      internalID: 899110992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Floor_12
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 4
+        width: 130
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a31d0dc079c6458300919c8bda9a1
+      internalID: 1731413729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_01_Angle_Down
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 978
+        width: 130
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc9db29c9badde4cb4da4b4cad7183a
+      internalID: -1868510873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_01_Right
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 893
+        width: 65
+        height: 85
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cd766ec1ac4344d8dd09faf2f8601e
+      internalID: 920965634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_01_Left
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 789
+        width: 65
+        height: 85
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d25585438792b40937793c215cc400
+      internalID: 123324658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_01_Angle_Up
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1007
+        width: 130
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c940477be2bdedd438dcdff80d2b3b28
+      internalID: 93646805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_02_Right
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 859
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b363e3cecd1b3f447b1944b08b52323a
+      internalID: 224664328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_02_Left
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 784
+        width: 65
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f28204ca52914d4b85bb2ddaa52b189
+      internalID: -1611009520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_02_Angle_Up
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 930
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca3b60b9ef80864285619bef02c105d
+      internalID: -1858554159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Border_02_Angle_Down
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 626
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: -0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf87f2296360d2409861d435493b4f2
+      internalID: -471331846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wooden_Floor_09: 721038636
+      Water_2: 1153732929
+      Stone_Floor_01: 382464982
+      Marble_Floor_05: -1391608228
+      Water_4: 1316502744
+      Marble_Floor_04: -1260785916
+      Fountain: -1892008549
+      Border_02_Angle_Up: -1858554159
+      Grass_08: 1226891517
+      Grass_05: -1566296665
+      Stone_Floor_05: -1082102252
+      Water_1: -1194374352
+      Green_Stone_Floor_01: -38248588
+      Wooden_Floor_08: -1140137522
+      Marble_Floor_01: 855456666
+      Green_Floor_01: -1095522624
+      Water_24: 1088182819
+      Grass_04: -733543100
+      Green_Floor_04: 591038507
+      CorCore_Floor_Tiles_15: 1648766066
+      Stone_Floor_04: -362666618
+      Wooden_Floor_01: 553214097
+      Green_Stone_Floor_02: -1466337382
+      Border_02_Right: 224664328
+      Wooden_Floor_10: -1106913659
+      Green_Floor_10: -30389207
+      allTiles_6: 1391819306
+      Border_01_Right: 920965634
+      Green_Stone_Floor_03: -1456516171
+      Stone_Floor_07: 1124836147
+      Green_Floor_08: 1972148886
+      Stone_Floor_02: -1862672640
+      Grass_03: 923505017
+      Water_1234: 675197908
+      Grass_01: 281047901
+      Water_134: -751460066
+      Wooden_Floor_03: 1285454686
+      Border_02_Angle_Down: -471331846
+      Border_01_Angle_Down: -1868510873
+      Border_01_Angle_Up: 93646805
+      Grass_02: -70675554
+      CorCore_Floor_Tiles_11: -1766931108
+      Green_Floor_05: 309491383
+      Water_124: 1195405185
+      Wooden_Floor_04: -1168502951
+      Border_02_Left: -1611009520
+      Border_01_Left: 123324658
+      Wooden_Floor_11: 899110992
+      Water_14: 530180995
+      Green_Floor_09: 198216006
+      CorCore_Floor_Tiles_17: 800731670
+      Marble_Floor_03: -159798254
+      Water_: -2138674643
+      Grass_07: 428119104
+      Wooden_Floor_07: 1717019837
+      Grass_06: -31928154
+      Green_Floor_07: 2058607794
+      Water_34: -1649640214
+      Water_0: -409109631
+      Stone_Floor_08: -1572451108
+      allTiles_9: -1098445005
+      Water_23: 128695088
+      Green_Floor_06: -1094409753
+      Water_13: -195937359
+      Stone_Floor_09: 553602353
+      Green_Floor_02: 329084080
+      Green_Floor_03: -60404796
+      Marble_Floor_02: 1349283822
+      Green_Stone_Floor_04: -1682420930
+      Water_3: -907823814
+      Stone_Floor_03: 1659029037
+      Wooden_Floor_02: -1741140120
+      Wooden_Floor_05: 1376467812
+      Wooden_Floor_12: 1731413729
+      Wooden_Floor_06: -1582095693
+      Stone_Floor_06: 1407410606
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249202
+  packageName: Ancient Greek Roman World Pack CorCore
+  packageVersion: 1.0
+  assetPath: Assets/CorCore_AncientWorld/CorCore_Tiles/Tiles/CorCore_Floor_Tiles.png
+  uploadId: 569026

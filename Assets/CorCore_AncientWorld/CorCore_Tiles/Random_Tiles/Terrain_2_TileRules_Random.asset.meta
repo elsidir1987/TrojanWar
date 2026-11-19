@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c4bf499299aa53419efc725bbd8259a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249202
+  packageName: Ancient Greek Roman World Pack CorCore
+  packageVersion: 1.0
+  assetPath: Assets/CorCore_AncientWorld/CorCore_Tiles/Random_Tiles/Terrain_2_TileRules_Random.asset
+  uploadId: 569026

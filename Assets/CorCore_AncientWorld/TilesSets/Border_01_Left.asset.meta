@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22b57ad827b310a4095f3dbf060b348d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249202
+  packageName: Ancient Greek Roman World Pack CorCore
+  packageVersion: 1.0
+  assetPath: Assets/CorCore_AncientWorld/TilesSets/Border_01_Left.asset
+  uploadId: 569026

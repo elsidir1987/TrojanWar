@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac9c80672a68ba748acf551b1e709e2e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 249202
+  packageName: Ancient Greek Roman World Pack CorCore
+  packageVersion: 1.0
+  assetPath: Assets/CorCore_AncientWorld/TilesSets/Border_02_Angle_Down.asset
+  uploadId: 569026

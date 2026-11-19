@@ -1,0 +1,389 @@
+
+{
+  "allQuestions": [
+    {
+      "questionText": "What important decision did Zeus make to relieve the Earth from too many people?",
+      "answerA": "To cause a great flood",
+      "answerB": "To cause the Trojan War",
+      "answerC": "To send monsters to the humans",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 0
+    },
+    {
+      "questionText": "On which mountain did the glorious wedding of Peleus and Thetis take place?",
+      "answerA": "On Mount Pelion",
+      "answerB": "On Mount Olympus",
+      "answerC": "On Mount Parnassus",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 1
+    },
+    {
+      "questionText": "Which goddess was NOT invited to the wedding and why?",
+      "answerA": "Athena, because she was busy",
+      "answerB": "Aphrodite, because she didn't like weddings",
+      "answerC": "Eris, the goddess of discord, because she caused fights",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 2
+    },
+    {
+      "questionText": "What did Eris throw among the guests out of her anger?",
+      "answerA": "A magic potion",
+      "answerB": "A golden apple that said 'To the fairest'",
+      "answerC": "A poisoned arrow",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 3
+    },
+    {
+      "questionText": "Where did Zeus send Hera, Athena, and Aphrodite to settle their dispute?",
+      "answerA": "To Mount Ida, so the shepherd Paris could choose",
+      "answerB": "To the oracle of Delphi",
+      "answerC": "To the sea, to ask Poseidon",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 4
+    },
+    {
+      "questionText": "Who was the shepherd Paris in reality?",
+      "answerA": "A disguised god",
+      "answerB": "The prince of Troy, son of Priam",
+      "answerC": "The greatest warrior of Sparta",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 5
+    },
+    {
+      "questionText": "What did the goddess Athena promise Paris if he gave her the golden apple?",
+      "answerA": "Boundless wealth and power",
+      "answerB": "The most beautiful woman in the world",
+      "answerC": "Wisdom and victories in wars",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 6
+    },
+    {
+      "questionText": "What did Paris do as soon as he chose Aphrodite and she told him about Helen of Troy?",
+      "answerA": "He traveled to Sparta to take her",
+      "answerB": "He stayed on the mountain guarding the sheep",
+      "answerC": "He went to Mycenae to find Agamemnon",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 7
+    },
+    {
+      "questionText": "What did Menelaus decide to do when Paris stole Helen from him?",
+      "answerA": "To forgive him and find another wife.",
+      "answerB": "To ask the other kings for help to get her back.",
+      "answerC": "To go to Troy alone in a small boat.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 8
+    },
+    {
+      "questionText": "Who was appointed commander of all the Greek kings in the campaign against Troy?",
+      "answerA": "Agamemnon, the king of Mycenae.",
+      "answerB": "Odysseus, the king of Ithaca.",
+      "answerC": "Menelaus, the king of Sparta.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 9
+    },
+    {
+      "questionText": "Why couldn't the Greek ships depart from the port of Aulis?",
+      "answerA": "Because they didn't have enough weapons and food.",
+      "answerB": "Because there was a storm and huge waves.",
+      "answerC": "Because there was no wind blowing, because Agamemnon had angered the goddess Artemis.",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 0
+    },
+    {
+      "questionText": "What was the only solution, according to the seer Calchas, for the wind to blow again?",
+      "answerA": "For Agamemnon to sacrifice his daughter, Iphigenia.",
+      "answerB": "To build a great temple for the goddess Artemis.",
+      "answerC": "For everyone to return to their homes.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 1
+    },
+    {
+      "questionText": "What did Agamemnon finally decide to do, despite feeling unbearable sorrow?",
+      "answerA": "He canceled the war and returned to Mycenae.",
+      "answerB": "He agreed to sacrifice Iphigenia for the good of Greece.",
+      "answerC": "He asked his brother to take his place.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 2
+    },
+    {
+      "questionText": "What happened at the last moment, right before Iphigenia's sacrifice took place?",
+      "answerA": "The goddess Artemis snatched her away and put a deer in her place.",
+      "answerB": "Achilles saved her and took her away.",
+      "answerC": "Zeus threw lightning bolts and stopped the sacrifice.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 3
+    },
+    {
+      "questionText": "Who did the Achaeans meet in Delos and what did he give them so they would have food during the war?",
+      "answerA": "The god Apollo, who gave them golden bows.",
+      "answerB": "The king of Delos, who gave them golden coins.",
+      "answerC": "The seer Anius, who gave them his daughters, the Oenotropae (they made wine, oil, and wheat).",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 4
+    },
+    {
+      "questionText": "Who were the rulers of Troy when the ships of the Achaeans arrived there?",
+      "answerA": "Priam and Hecuba",
+      "answerB": "Menelaus and Helen",
+      "answerC": "Agamemnon and Clytemnestra",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 5
+    },
+    {
+      "questionText": "Who was Cassandra, the daughter of the king of Troy?",
+      "answerA": "A brave female warrior who defeated Achilles.",
+      "answerB": "A seer who told the truth, but the gods made it so no one would believe her.",
+      "answerC": "The most beautiful woman in Troy, whom Odysseus fell in love with.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 6
+    },
+    {
+      "questionText": "Who was the bravest warrior and commander of the Trojan army?",
+      "answerA": "Paris",
+      "answerB": "Aeneas",
+      "answerC": "Hector",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 7
+    },
+    {
+      "questionText": "Why did no Achaean dare to step on the land of Troy first?",
+      "answerA": "Because an oracle said that the first to step on land would be killed.",
+      "answerB": "Because the sand was too hot.",
+      "answerC": "Because they were afraid of the high walls of Troy.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 8
+    },
+    {
+      "questionText": "What cunning trick did Odysseus play to get out first, but without stepping on the dirt?",
+      "answerA": "He wore winged shoes and flew over the shore.",
+      "answerB": "He had someone else carry him on their back.",
+      "answerC": "He threw his shield on the ground and stepped on it.",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 9
+    },
+    {
+      "questionText": "Which Olympian gods supported the Greeks (Achaeans) in the war?",
+      "answerA": "Zeus and Pluto.",
+      "answerB": "Hera, Athena, and Poseidon.",
+      "answerC": "Ares, Apollo, and Aphrodite.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 0
+    },
+    {
+      "questionText": "For how many years did the Achaeans fight around the walls of Troy without being able to conquer it?",
+      "answerA": "10 years",
+      "answerB": "1 year",
+      "answerC": "100 years",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 1
+    },
+    {
+      "questionText": "Which great Greek leaders argued fiercely in the tenth year of the war?",
+      "answerA": "Odysseus and Menelaus.",
+      "answerB": "Agamemnon and Achilles.",
+      "answerC": "Paris and Hector.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 2
+    },
+    {
+      "questionText": "Who was Chryses and why did he go to the Achaean camp?",
+      "answerA": "He was a priest of Apollo and went to ask for his daughter back, offering a great ransom.",
+      "answerB": "He was a Trojan spy who wanted to steal their weapons.",
+      "answerC": "He was a friend of Achilles and brought him gifts from Greece.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 3
+    },
+    {
+      "questionText": "How did the god Apollo punish the Achaeans because Agamemnon rudely turned away his priest?",
+      "answerA": "He threw lightning bolts and burned their ships.",
+      "answerB": "He raised huge waves and drowned many soldiers.",
+      "answerC": "He shot invisible arrows and brought a terrible disease (plague) to the camp.",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 4
+    },
+    {
+      "questionText": "Who did the Achaeans ask to find out why they were getting sick and what did he tell them?",
+      "answerA": "The seer Calchas, who explained that it was due to Apollo's anger.",
+      "answerB": "The god Zeus, who told them to return to Greece.",
+      "answerC": "King Priam, who apologized to them.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 5
+    },
+    {
+      "questionText": "What was Agamemnon forced to do to stop the evil and the disease?",
+      "answerA": "Sacrifice a golden deer to the god Apollo.",
+      "answerB": "Return his daughter to the priest Chryses.",
+      "answerC": "Defeat Hector in a duel.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 6
+    },
+    {
+      "questionText": "When Agamemnon returned the priest's daughter, what did he forcefully take from Achilles, making him extremely angry?",
+      "answerA": "His golden sword and his shield.",
+      "answerB": "His beloved friend, Patroclus.",
+      "answerC": "His beautiful slave, Briseis, causing Achilles to withdraw from the battle.",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 7
+    },
+    {
+      "questionText": "How did the war go for the Achaeans without Achilles and what did Agamemnon do?",
+      "answerA": "They were winning easily and didn't need him at all.",
+      "answerB": "They kept losing and Agamemnon sent him rich gifts to beg him to return.",
+      "answerC": "They made new, stronger weapons and Agamemnon didn't care.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 8
+    },
+    {
+      "questionText": "What terrible feat did Hector, the leader of the Trojans, manage to achieve while Achilles was absent?",
+      "answerA": "He reached the Achaean ships and started burning them.",
+      "answerB": "He stole Achilles' horses from inside his tent.",
+      "answerC": "He surrendered to Odysseus to save himself.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 9
+    },
+    {
+      "questionText": "What did Patroclus ask of his friend Achilles when he saw the great danger?",
+      "answerA": "To give him his armor to wear and scare the Trojans, and Achilles agreed.",
+      "answerB": "To leave secretly at night with the ships, but Achilles refused.",
+      "answerC": "To go talk to Hector to make peace.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 0
+    },
+    {
+      "questionText": "What finally happened to Patroclus in the battle, while wearing Achilles' armor?",
+      "answerA": "He tripped and fell into the sea.",
+      "answerB": "He fought bravely, but eventually Hector killed him.",
+      "answerC": "He defeated all the Trojans by himself and became a hero.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 1
+    },
+    {
+      "questionText": "What happened around the body of the dead Patroclus?",
+      "answerA": "The Achaeans and Trojans immediately stopped the war to bury him.",
+      "answerB": "A fierce battle broke out for his body and Hector took his armor.",
+      "answerC": "The gods immediately took him up to Mount Olympus.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 2
+    },
+    {
+      "questionText": "How did Achilles react when he found out that his best friend, Patroclus, was killed?",
+      "answerA": "He wept bitterly and decided to return immediately to the battle to avenge him.",
+      "answerB": "He was terrified and hid in his tent.",
+      "answerC": "He forgave Hector and asked for the war to stop.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 3
+    },
+    {
+      "questionText": "What did Achilles do the day after the death of his beloved friend, Patroclus?",
+      "answerA": "He left angrily with his ships for Greece.",
+      "answerB": "He put on his new armor, threw himself into battle, and killed many Trojans.",
+      "answerC": "He stayed in his tent crying without doing anything.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 4
+    },
+    {
+      "questionText": "What did the Trojans and Hector do when they saw the furious Achilles approaching the walls?",
+      "answerA": "The Trojans hid terrified inside the city, but Hector stayed outside to face him.",
+      "answerB": "They all went out of the walls together to fight Achilles.",
+      "answerC": "Hector hid and the rest of the Trojans stayed to fight.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 5
+    },
+    {
+      "questionText": "What happened when Hector finally met Achilles?",
+      "answerA": "Hector defeated Achilles very easily.",
+      "answerB": "They became friends, hugged, and stopped the war.",
+      "answerC": "Achilles chased Hector around the walls and in the end killed him with his spear.",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 6
+    },
+    {
+      "questionText": "What cruel thing did Achilles do after he killed Hector?",
+      "answerA": "He tied his dead body to his chariot and dragged it in the dirt back to the Achaean camp.",
+      "answerB": "He immediately gave him a grand and honorable funeral.",
+      "answerC": "He gave Hector's armor back to the Trojans.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 7
+    },
+    {
+      "questionText": "What did the Achaeans do the next day in their camp?",
+      "answerA": "They had a big feast and dances because Hector died.",
+      "answerB": "They buried Patroclus with great honors and held funeral games (sports) in his memory.",
+      "answerC": "They packed their things to leave secretly.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 8
+    },
+    {
+      "questionText": "Why did the king of Troy, Priam, go secretly at night to Achilles' tent and what did he achieve?",
+      "answerA": "He went to kill him in his sleep, but Achilles took him prisoner.",
+      "answerB": "He went to ask for peace, and Achilles agreed that the Achaeans would leave.",
+      "answerC": "He tearfully begged him to give him the body of his son (Hector) to bury it, and Achilles was moved and agreed.",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 9
+    },
+    {
+      "questionText": "What had his mother, the goddess Thetis, done to Achilles when he was a baby to make him immortal (invulnerable)?",
+      "answerA": "She gave him the magic nectar of the Olympian gods to drink.",
+      "answerB": "She dipped him into the river of the Underworld, but because she held him by the heel, that spot remained weak.",
+      "answerC": "She put magic golden armor on him that nothing could pierce.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 0
+    },
+    {
+      "questionText": "Which god advised Paris and how did he finally manage to kill the invincible Achilles?",
+      "answerA": "The god Apollo, who helped him aim and shoot his arrow exactly in Achilles' heel.",
+      "answerB": "The god Ares, who gave him a magic, fiery sword.",
+      "answerC": "Zeus, who threw a thunderbolt to blind Achilles.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 1
+    },
+    {
+      "questionText": "What happened immediately after the death of Achilles?",
+      "answerA": "The Trojans took his body and hid it inside Troy.",
+      "answerB": "A fierce battle took place, but Ajax and Odysseus fought bravely and saved his body.",
+      "answerC": "The Achaeans got so scared that they got on their ships and left for Greece.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 2
+    },
+    {
+      "questionText": "What finally happened to Paris, shortly after the death of Achilles?",
+      "answerA": "He became the new king of Troy and made peace.",
+      "answerB": "He secretly left with Helen of Troy and went to Egypt.",
+      "answerC": "He was fatally wounded by the poisoned arrows of an Achaean (Philoctetes) and died.",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 3
+    },
+    {
+      "questionText": "What brilliant plan did the resourceful Odysseus come up with so the Achaeans could finally enter Troy?",
+      "answerA": "To dig a huge underground tunnel beneath the walls.",
+      "answerB": "To build a giant hollow wooden horse, the Trojan Horse.",
+      "answerC": "To ask for peace and become friends with the Trojans.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 4
+    },
+    {
+      "questionText": "What exactly was the Trojan Horse and what did it hide inside it?",
+      "answerA": "It was a real, giant horse that ate people.",
+      "answerB": "It was a magic statue that breathed fire from its mouth.",
+      "answerC": "It was a wooden horse, and the bravest Achaean warriors hid in its belly.",
+      "correctAnswerIndex": 2,
+      "rewardIndex": 5
+    },
+    {
+      "questionText": "How did the Achaeans manage to trick the Trojans into bringing the horse inside the city?",
+      "answerA": "They pretended to leave with their ships and left the horse as a supposed gift for the goddess Athena.",
+      "answerB": "They all dressed up as Trojan soldiers and passed through the gates.",
+      "answerC": "They gave many gold coins to the guards to open the gates for them.",
+      "correctAnswerIndex": 0,
+      "rewardIndex": 6
+    },
+    {
+      "questionText": "What did the seer Cassandra and the priest Laocoön tell the Trojans when they saw the Trojan Horse?",
+      "answerA": "They told them to quickly bring it inside to have a big celebration.",
+      "answerB": "They warned them not to bring it inside because it was a trap, but no one listened to them.",
+      "answerC": "They told them to paint it gold so the gods would like it more.",
+      "correctAnswerIndex": 1,
+      "rewardIndex": 7
+    }
+  ]
+}
