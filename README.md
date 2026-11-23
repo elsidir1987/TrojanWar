@@ -1,4 +1,4 @@
-# Reviving the Trojan War (Αναβιώνοντας τον Τρωικό Πόλεμο)
+# Reviving the Trojan War · Αναβιώνοντας τον Τρωικό Πόλεμο
 
 A 2D educational action-adventure game built with **Unity** and **C#** set during the Trojan War. Designed for primary school students, 
 it combines exploration, stamina/health mechanics, and interactive history quizzes with bilingual support (English / Greek).
