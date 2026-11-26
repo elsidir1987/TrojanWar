@@ -18,6 +18,7 @@ it combines exploration, stamina/health mechanics, and interactive history quizz
   <img src="Assets/screenshots/gameplay.png" alt="Game play" width="49%" />
   <img src="Assets/screenshots/lastlevel.png" alt="Last level" width="50%" />
 </p>
+
 ## Key Features
 
 - **Narrative & Progression:** Multi-level 2D adventure across key moments of the Trojan War.
