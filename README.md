@@ -16,7 +16,7 @@ it combines exploration, stamina/health mechanics, and interactive history quizz
 </p>
 <p align="center">
   <img src="Assets/screenshots/gameplay.png" alt="Game play" width="48%" />
-  <img src="Assets/screenshots/lastlevel.png" alt="Last level" width="55%" />
+  <img src="Assets/screenshots/lastlevel.png" alt="Last level" width="50%" />
 </p>
 ## Key Features
 
