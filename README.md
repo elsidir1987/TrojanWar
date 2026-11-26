@@ -5,9 +5,9 @@ it combines exploration, stamina/health mechanics, and interactive history quizz
 
 ## Play the Game
 
-- **Play in Browser (Unity Play):** [Launch on Unity Play]
-- **Desktop Builds (Windows & macOS):** Download the latest `.zip` archive from the [Releases](../../releases) page.
-
+- ** [Play in Unity Play] [https://play.unity.com/en/games/4ad0b35c-3786-4bac-ae06-2a26811fa637/trojanwar]
+- ** [Play in itch.io] [https://elsidiryo.itch.io/reviving-the-trojan-war]
+- 
 ## Key Features
 
 - **Narrative & Progression:** Multi-level 2D adventure across key moments of the Trojan War.
