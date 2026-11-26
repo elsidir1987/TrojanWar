@@ -1,4 +1,4 @@
-# Reviving the Trojan War · Αναβιώνοντας τον Τρωικό Πόλεμο
+## Reviving the Trojan War · Αναβιώνοντας τον Τρωικό Πόλεμο
 
 A 2D educational action-adventure game built with **Unity** and **C#** set during the Trojan War. Designed for primary school students, 
 it combines exploration, stamina/health mechanics, and interactive history quizzes with bilingual support (English / Greek).
@@ -7,7 +7,18 @@ it combines exploration, stamina/health mechanics, and interactive history quizz
 
 - ** [Play in Unity Play] [https://play.unity.com/en/games/4ad0b35c-3786-4bac-ae06-2a26811fa637/trojanwar]
 - ** [Play in itch.io] [https://elsidiryo.itch.io/reviving-the-trojan-war]
-- 
+
+### Screenshots
+
+<p align="center">
+  <img src="screenshots/menu.png" alt="Main Menu" width="48%" />
+  <img src="screenshots/instructions.png" alt="Instructions" width="48%" />
+</p>
+<p align="center">
+  <img src="screenshots/gameplay.png" alt="Game play" width="48%" />
+  <img src="screenshots/quiz.png" alt="History Quiz Panel" width="48%" />
+  <img src="screenshots/lastlevel.png" alt="Last level" width="48%" />
+</p>
 ## Key Features
 
 - **Narrative & Progression:** Multi-level 2D adventure across key moments of the Trojan War.
